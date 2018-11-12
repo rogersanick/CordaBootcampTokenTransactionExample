@@ -1,12 +1,12 @@
 
 [91m   ______               __
   / ____/     _________/ /___ _
- / /     __  / ___/ __  / __ `/         [94mIt runs on the JVM because QuickBasic
-[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mis apparently not 'professional' enough.
+ / /     __  / ___/ __  / __ `/         [94m"It's OK computer, I go to sleep after
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mtwenty minutes of inactivity too!"
 [91m\____/     /_/   \__,_/\__,_/[m
 
 [99;1m--- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
 
 [m
-Logs can be found in                    : /Users/nicholasrogers/IdeaProjects/bootcamp-cordapp/build/nodes/PartyA/logs
-Database connection url is              : jdbc:h2:tcp://10.28.1.19:51644/node
+Logs can be found in                    : /Users/nicholasrogers/IdeaProjects/bootcamp-cordapp-transfer/build/nodes/PartyA/logs
+Database connection url is              : jdbc:h2:tcp://10.28.1.242:51059/node

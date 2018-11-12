@@ -1,12 +1,12 @@
 
 [91m   ______               __
   / ____/     _________/ /___ _
- / /     __  / ___/ __  / __ `/         [94mI met my bank manager yesterday and asked
-[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mto check my balance ... he pushed me over!
+ / /     __  / ___/ __  / __ `/         [94m"It's OK computer, I go to sleep after
+[91m/ /___  /_/ / /  / /_/ / /_/ /          [94mtwenty minutes of inactivity too!"
 [91m\____/     /_/   \__,_/\__,_/[m
 
 [99;1m--- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
 
 [m
-Logs can be found in                    : /Users/nicholasrogers/IdeaProjects/bootcamp-cordapp/build/nodes/PartyC/logs
-Database connection url is              : jdbc:h2:tcp://10.28.1.19:51645/node
+Logs can be found in                    : /Users/nicholasrogers/IdeaProjects/bootcamp-cordapp-transfer/build/nodes/PartyC/logs
+Database connection url is              : jdbc:h2:tcp://10.28.1.242:51066/node
